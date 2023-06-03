@@ -1,39 +1,39 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*1¹ø ¹æ¹ı 
+/*1ë²ˆ ë°©ë²• 
 
 void main()
 {
-	printf("¾¾Å¥ºêÄÚµùÀº ");
-	printf("º¸´Ù ³ªÀº ¼¼»óÀ» ¸¸µå´Â µµ±¸ÀÌ´Ù.");
+	printf("ì”¨íë¸Œì½”ë”©ì€ ");
+	printf("ë³´ë‹¤ ë‚˜ì€ ì„¸ìƒì„ ë§Œë“œëŠ” ë„êµ¬ì´ë‹¤.");
 }
 
-2¹ø ¹æ¹ı 
+2ë²ˆ ë°©ë²• 
 
 int main(int argc, char *argv[]) {
-	printf("¾¾Å¥ºêÄÚµùÀº ");
-	printf("³»ÀÏÀ» À§ÇØ »ç°ú³ª¹«¸¦ ½É´Â °ÍÀÌ´Ù.");
+	printf("ì”¨íë¸Œì½”ë”©ì€ ");
+	printf("ë‚´ì¼ì„ ìœ„í•´ ì‚¬ê³¼ë‚˜ë¬´ë¥¼ ì‹¬ëŠ” ê²ƒì´ë‹¤.");
 	return 0;
 }
 
-3¹ø ¹æ¹ı
+3ë²ˆ ë°©ë²•
 
 int main(int argc, char *argv[]) {
-	printf("¾È³ç! ¾¾Å¥ºêÄÚµù");
+	printf("ì•ˆë…•! ì”¨íë¸Œì½”ë”©");
 	return 0;
 }  
 
-4¹ø ¹æ¹ı 
+4ë²ˆ ë°©ë²• 
 
 void main()
 {
-	printf("´ë¼±ÃÊ\n");
+	printf("ëŒ€ì„ ì´ˆ\n");
 	printf("5-6\n");
-	printf("±èÁÖÈ¯"); 
+	printf("ê¹€ì£¼í™˜"); 
 } 
 
-5¹ø ¹æ¹ı
+5ë²ˆ ë°©ë²•
 
 void main()
 {
@@ -43,7 +43,7 @@ void main()
 	printf("Hello\tC3coding");
 }
 
-6¹ø ¹æ¹ı 
+6ë²ˆ ë°©ë²• 
 void main()
 {
 	printf("'\n");
@@ -51,35 +51,23 @@ void main()
 	printf("%%\n");
 	printf("\"");
 }
-7¹ø ¹æ¹ı
+7ë²ˆ ë°©ë²•
 
 void main()
 {
 	printf("12345678\n");
 	printf("ABCDEFG\n"); 
-	printf("´ëÇÑ¹Î±¹\n");
+	printf("ëŒ€í•œë¯¼êµ­\n");
 	printf("abcdefg\n");
-	printf("¢Ã¡İ¢À¢¾\n"); 
+	printf("â–£â—â™£â™¥\n"); 
 	printf("@#$^&*!\n");
 	printf("12345678\n");
 }
-8¹ø ¹æ¹ı
+8ë²ˆ ë°©ë²•
 void main()
 {
 	printf("%%Solar Tracking System%%\n");
 	printf("\\Smart Devices\\\n");
 	printf("\"Matrix\"\n");
 	printf("'Hello Robot'");
- } 
-9¹ø ¹æ¹ı
-*/
-void main()
-{
-	printf("       *\n");
-	printf("      * *\n");
-	printf("     *   *\n");
-	printf("*****     *****\n");
-	printf(" *           *\n");
-	printf("  *         *\n");
-	printf("   *       *\n");
- } 
+} */
