@@ -5,8 +5,8 @@
 
 void main()
 {
-	printf("\t¡á\t¡á\n\n");
-	printf("  ¡á\t\t     ¡á\n");
-	printf("   ¡á\t\t    ¡á\n");
-	printf("     ¡á¡á¡á¡á¡á¡á¡á¡á");
+	printf("\tâ– â– \tâ– â– \n\tâ– â– \tâ– â– \n");
+	printf("  â– â– \t\t     â– â– \n");
+	printf("   â– â– \t\t    â– â– \n");
+	printf("     â– â– â– â– â– â– â– â– â– ");
 }
