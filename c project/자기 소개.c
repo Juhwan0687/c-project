@@ -1,13 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*
+
 int main()
 {
 	int grade=5;
 	int Class=6;
 	int number=7;
 	
-	printf("%dÇĞ³â %d¹İ %d¹ø", grade, Class, number);
+	printf("%dí•™ë…„ %dë°˜ %dë²ˆ", grade, Class, number);
 	return 0;
 }
-*/
