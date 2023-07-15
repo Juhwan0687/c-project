@@ -8,11 +8,11 @@ int main(){
 	
 	if(f1<f2)
 	{
-		printf("留욎븘!!!\n");
+		printf("맞아!!!\n");
 	}
 	else
 	{
-		printf("?꾨땲??!!\n");
+		printf("아니야!!!\n");
 	}
 		return 0;
 }
