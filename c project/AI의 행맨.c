@@ -7,7 +7,7 @@
 #define MAX_TRIES 7
 
 int main() {
-    char *words[] = {"apple", "banana", "cherry", "orange", "peach","grape"};
+    char *words[] = {"apple", "banana", "cherry", "orange", "peach","grape","tangerine","strawberry","asaiberry","melon","watermelon","fashionfruit","dragonfruit","mango","mangostin","tomato","carrot","onion","rose","whale","polarbear","rocket","astronaut","space","circle","rectangle","triangle","pentagon","ship","boat","airplane","aircraft"};
     int num_words = sizeof(words) / sizeof(char *);
     char word[MAX_LENGTH];
     char guessed_word[MAX_LENGTH];
