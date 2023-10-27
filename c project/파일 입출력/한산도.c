@@ -10,7 +10,7 @@ int main(){
 	
 	fscanf(fp,"%s %d %lf %lf",&name,&people,&square,&sea);
 	
-	printf("Áö¸í : %s\nÀÎ±¸ : %d\n¸éÀû : %lf\nÇØ¾È¼± : %lf",name,people,square,sea);
+	printf("ì§€ëª… : %s\nì¸êµ¬ : %d\në©´ì  : %lf\ní•´ì•ˆì„  : %lf",name,people,square,sea);
 
 	fclose(fp);
 }
