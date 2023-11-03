@@ -1,11 +1,11 @@
 int MainMenu(){
 	int n;
 	
-	printf("\t### »çÄ¢¿¬»ê ###\n");
-	printf("\t1. Á¤¼öÇü »çÄ¢¿¬»ê\n");
-	printf("\t2. ½Ç¼öÇü »çÄ¢¿¬»ê\n");
-	printf("\t3. Á¾·á\n");
-	printf("\n\t¸Ş´º¸¦ ¼±ÅÃÇÏ¼¼¿ä : ");
+	printf("\t### ì‚¬ì¹™ì—°ì‚° ###\n");
+	printf("\t1. ì •ìˆ˜í˜• ì‚¬ì¹™ì—°ì‚°\n");
+	printf("\t2. ì‹¤ìˆ˜í˜• ì‚¬ì¹™ì—°ì‚°\n");
+	printf("\t3. ì¢…ë£Œ\n");
+	printf("\n\të©”ë‰´ë¥¼ ì„ íƒí•˜ì„¸ìš” : ");
 	scanf("%d",&n);
 	
 	return n;
@@ -14,9 +14,9 @@ int MainMenu(){
 int IntMenu(){
 	int im;
 	
-	printf("\t@@ Á¤¼öÇü °è»ê±â @@\n");
-	printf("\t1. µ¡¼À\n\t2.»¬¼À\n\t3.°ö¼À\n\t4.³ª´°¼À\n\t5.µÚ·Î\n");
-	printf("\n\t¸Ş´º¸¦ ¼±ÅÃÇÏ¼¼¿ä : ");
+	printf("\t@@ ì •ìˆ˜í˜• ê³„ì‚°ê¸° @@\n");
+	printf("\t1. ë§ì…ˆ\n\t2.ëº„ì…ˆ\n\t3.ê³±ì…ˆ\n\t4.ë‚˜ëˆ—ì…ˆ\n\t5.ë’¤ë¡œ\n");
+	printf("\n\të©”ë‰´ë¥¼ ì„ íƒí•˜ì„¸ìš” : ");
 	scanf("%d",&im);
 	
 	return im;
@@ -24,7 +24,7 @@ int IntMenu(){
 
 int IntInputData(){
 	int n;
-	printf("\tÁ¤¼ö ÀÔ·Â : ");
+	printf("\tì •ìˆ˜ ì…ë ¥ : ");
 	scanf("%d",&n);
 	
 	return n;
