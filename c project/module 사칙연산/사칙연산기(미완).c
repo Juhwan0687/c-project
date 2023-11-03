@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "MenuModule.h"
-#define ERROR "ÀÔ·Â¿À·ù\n"
+#define ERROR "ì˜¤ë¥˜\n"
 
 int main(){
 	int menu=0;
