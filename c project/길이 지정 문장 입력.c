@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <string.h>
 
 int main(){
 	char *ar;
 	int len,i;
+	char ar2[];
 	
 	printf("Input length / sentence : ");
 	scanf("%d",&len);
@@ -10,8 +12,10 @@ int main(){
 	ar=(char*)malloc(len*sizeof(char));
 	
 	gets(ar);
+
+	ar2=strcpy(ar);
 	
-	for(i=0;i<len+1;i++){
-		printf("%c",ar[i]);
-	}
+	printf("%s",ar2);
+
+	free(ar);
 }
